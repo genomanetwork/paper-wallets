@@ -1,7 +1,7 @@
 # Genoma | Paper Wallet Generator
 
 **** LOOKING FOR THE ZIP FILE TO DOWNLOAD ? ***********************************
-It's here: https://github.com/genomanetwork/paper-wallets/archive/refs/heads/master.zip
+It's here: https://github.com/genomanetwork/paper-wallets/releases/download/1.0.0.0/gnm-wallet-generator.zip
 *******************************************************************************
 
 WalletGenerator.net
